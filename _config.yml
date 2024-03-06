@@ -24,15 +24,15 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: fatidro
+email: fatigue@ss.es
 
 navigation:
-  - text: Home
+  - text: Inicio
     url: /
   - text: Docs
     url: /docs
-  - text: Examples
+  - text: Ejemplos
     url: /examples
 
 projects:
