@@ -25,7 +25,7 @@ theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: dro
-email: 
+email: none
 
 navigation:
   - text: Sobre mí
