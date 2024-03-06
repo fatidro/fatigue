@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-06-prueba.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-06-prueba.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-06-prueba.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-06-prueba.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,15 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00505e4a98100b2e",
+  "active": "95d5bdec1084aefe",
   "lastOpenFiles": [
-    "_posts/2014-01-15-xml.md",
+    "favicon.png",
+    "docs.md",
+    "images/standard.png",
+    "images/markdown.png",
+    "images/dark.png",
     "_posts/2024-03-06-prueba.md",
+    "_posts/2014-01-15-xml.md",
     "_posts/Untitled.md",
     "_posts/2014-12-23-foreign-link.md",
     "_posts/2013-12-23-helloworld.md",
-    "docs.md",
-    "README.md",
-    "favicon.png"
+    "README.md"
   ]
 }
