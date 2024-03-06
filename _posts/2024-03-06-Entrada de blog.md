@@ -8,4 +8,4 @@ image_preview: https://www.bizneo.com/blog/wp-content/uploads/2019/05/pruebas-ps
 ---
 Esto es una prueba de cómo sería una entrada de blog. Tal vez no sea tan complicado, después de todo
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png
+(hola)[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png]
