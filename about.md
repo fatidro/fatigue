@@ -1,5 +1,5 @@
 ---
-title: _about
+title: about
 layout: default
 permalink: /
 ---
