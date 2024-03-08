@@ -1,7 +1,7 @@
 ---
 title: _about
 layout: default
-permalink: /about.md
+permalink: /
 ---
 
 # Lorem ipsum
