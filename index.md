@@ -1,7 +1,7 @@
 ---
-title: /
+title: _fatigue
 layout: home
-permalink: / fatigue
+permalink: /
 ---
 
 # Lorem ipsum
