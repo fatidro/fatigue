@@ -1,7 +1,7 @@
 ---
 title: _1
 layout: post
-permalink: /
+permalink: /post1.md
 ---
 
 # Lorem ipsum
